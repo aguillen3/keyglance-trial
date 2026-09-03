@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "KeyGlance.Server": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5080",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

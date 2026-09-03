@@ -1,0 +1,11 @@
+{
+  "id": "sample-clean-001",
+  "client": "Margaret Buttle",
+  "year": 2025,
+  "dueDate": "2026-09-03T21:00:00Z",
+  "fields": {
+    "Box2": "111",
+    "Box14": "222",
+    "Box22": "333"
+  }
+}
